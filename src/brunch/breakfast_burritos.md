@@ -30,7 +30,7 @@ Use the tortilla with egg as a base, swap out the ingredients for whatever you h
 - Chili flakes
 
 
-## Method
+## Instructions
 **Preparations**
 1. In a bowl, start by mashing the avocado
 1. Add the sourcream and lime to the bowl and mix it in
