@@ -1,0 +1,5 @@
+[book]
+authors = ["Håvard Kindem"]
+language = "en"
+multilingual = false
+src = "src"
